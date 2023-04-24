@@ -30,8 +30,12 @@ A raíz de esta solicitud, nuestro Project Manager nos encarga una serie de tare
 Stack tecnológico:
 
 + `Python`: EDA + transformaciones 
+![image](https://user-images.githubusercontent.com/106040107/234064016-05effd11-2de1-4151-9c1f-13fbed03e1ae.png)
+
 + `SQL`: base de datos
 + `Power BI` -preferentemente- o `Streamlit`: dashboard
+![image](https://user-images.githubusercontent.com/106040107/234063711-b3c98ed0-d8e1-4022-9125-da111ac367e6.png)
+
 + `GitHub`: con un README.md donde se elabore el informe
 
 A modo de resumen, se espera que puedan realizar un primer acercamiento al dataset con Python. Allí, crearán un notebook que contendrá un análisis exploratorio y realizarán las transformaciones y el preprocesamiento que consideren pertinentes. Esta etapa debe estar oportunamente documentada y con los comentarios necesarios. Recuerden que Python brinda un recurso muy valioso para este fin -celdas markdown-.
